@@ -10,4 +10,4 @@ $ npm install
 $ webpack --watch
 ```
 
-（3）打开`src/index.html`查看效果。
+（3）打开`src/index.html`查看效果
